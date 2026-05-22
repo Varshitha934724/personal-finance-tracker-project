@@ -1,2 +1,2 @@
-# persnal-finance-tracker-project
-persnal finance tracker project Description
+# personal-finance-tracker-project
+personal finance tracker project Description
